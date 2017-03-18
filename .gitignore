@@ -1,0 +1,7 @@
+### https://raw.github.com/github/gitignore/35c010258fc790ad769033e9ccfb1021178f2925/Global/redis.gitignore
+
+# Ignore redis binary dump (dump.rdb) files
+
+*.rdb
+
+
